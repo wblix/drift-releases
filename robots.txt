@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wblix.github.io/drift-releases/sitemap.xml
